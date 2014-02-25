@@ -16,8 +16,8 @@
     "tests"
   ],
   "dependencies": {
-    "boot": "git@github.com:unscriptable/boot#demo",
-    "wire": "git@github.com:briancavalier/wire-next.git#boot",
+	"rave": "git@github.com:RaveJS/rave.git",
+    "wire": "git@github.com:briancavalier/wire-next.git#rave",
     "cola": "git@github.com:cujojs/cola.git#document-sync"
   }
 }
